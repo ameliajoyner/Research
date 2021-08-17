@@ -5,6 +5,8 @@ iframe {
 h1 {
     text-align: center;
     font: Courier;
+    column-width: 400px;
+    padding: 2rem 1rem;
 }
 p {
     font: Courier;
