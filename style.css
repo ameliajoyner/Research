@@ -31,5 +31,5 @@ img {
     font: Courier;
     margin: auto;
     padding: 50px;
-    background-origin: padding-box;
+    background-origin: border-box;
 }
