@@ -2,3 +2,6 @@ iframe {
     width: 50%;
     height: 500px;
 }
+h1 {
+    box-align: center;
+}
