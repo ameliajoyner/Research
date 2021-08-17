@@ -26,6 +26,6 @@ h2 {
     text-align: center;
 }
 img {
-    align: center;
+    box-align: center;
     width: 40%
 }
