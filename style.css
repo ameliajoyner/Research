@@ -29,6 +29,6 @@ img {
 .intro {
     background-color:rgb(252, 214, 227);
     font: Courier;
-    margin: 0px;
-    padding: 50px;
+    margin: 0;
+    padding: 0;
 }
