@@ -28,5 +28,6 @@ img {
 }
 .intro {
     background-color:rgb(252, 214, 227);
-    height:max-content;
+    height: 250px;
+    font: Courier;
 }
