@@ -6,23 +6,9 @@ h1 {
     text-align: center;
     font: Courier;
 }
-h2 {
-    text-align: center;
-    font: Courier;
-}
 p {
     font: Courier;
     font-size: 20px;
-}
-h2 {
-    font-style: bold;
-    font-size: 26px;
-    font: Courier;
-}
-h3 {
-    font-style: bold;
-    font-size: 26px;
-    font: Courier;
 }
 li{
     font-size: 20px;
@@ -30,4 +16,10 @@ li{
 }
 body {
     background-color: rgb(255, 220, 232);
+}
+.headings {
+    font-style: bold;
+    font-size: 26px;
+    font: Courier;
+    text-align: center;
 }
