@@ -37,6 +37,6 @@ img {
 .intro2 {
     background-color:rgb(252, 214, 227);
     font: Courier;
-    margin: 0 auto;
+    margin: 10 auto;
     max-width: 500px;    
 }
