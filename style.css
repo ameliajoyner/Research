@@ -37,3 +37,6 @@ img {
 .body {
     background-color:lemonchiffon;
 }
+.boxed {
+    border: 1px solid green ;
+  }
