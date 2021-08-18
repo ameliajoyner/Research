@@ -33,6 +33,7 @@ img {
     column-width: 400px;
     padding: 2rem 1rem; 
     max-width: 500px;
+    max-height: 200px;
 }
 .body {
     background-color:lemonchiffon;
