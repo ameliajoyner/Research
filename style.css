@@ -28,9 +28,11 @@ img {
     box-align: center;
     width: 40%
 }
-.intro {
+.intro2 {
     background-color:rgb(252, 214, 227);
     font: Courier;
     margin: 0 auto;
-    max-width: 500px;
+    max-width: 500px; 
+    column-width: 400px;
+    padding: 2rem 1rem; 
 }
