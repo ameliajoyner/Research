@@ -39,5 +39,6 @@ img {
     font: Courier;
     margin: 0 auto;
     max-width: 500px; 
-    max-height: 250px;  
+    column-width: 400px;
+    padding: 2rem 1rem; 
 }
