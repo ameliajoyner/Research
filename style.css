@@ -34,11 +34,3 @@ img {
     margin: 0 auto;
     max-width: 500px;
 }
-.intro2 {
-    background-color:rgb(252, 214, 227);
-    font: Courier;
-    margin: 0 auto;
-    max-width: 500px; 
-    column-width: 400px;
-    padding: 2rem 1rem; 
-}
