@@ -49,6 +49,7 @@ h2 {
     height: 300px;
 }
 .row:after {
+    content: "";
     display: table;
     clear: both;
 }
