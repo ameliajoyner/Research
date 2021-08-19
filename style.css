@@ -23,7 +23,7 @@
       margin: 0 auto; 
       column-width: 400px;
       padding: 2rem 1rem; 
-      max-width: 500px;
+      text-align: center;
   }
   .center {
     display: block;
