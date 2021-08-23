@@ -83,3 +83,8 @@ h2 {
 body {
     background-color:#F7F9F9;
 }
+.table {
+      border: black;
+      border-style: dashed;
+      border-width: 5px;
+}
