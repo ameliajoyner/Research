@@ -16,6 +16,7 @@
       font-style: bold;
       font-size: 26px;
       font: Courier;
+      text-align: center;
   }
   .intro {
       background-color:rgb(252, 215, 228);
@@ -37,6 +38,8 @@
       border-width: 3px;
       align-content: left;
       font-size: 20px;
+      margin-left: auto;
+      margin-right: auto;
 }
 .timeline {
       background-color:rgb(255, 232, 213);
